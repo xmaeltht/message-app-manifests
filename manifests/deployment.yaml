@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - image:  akash125/message-app:v1
-        name: 
+        name: message-app
         ports:
         - containerPort: 8080
         envFrom:
