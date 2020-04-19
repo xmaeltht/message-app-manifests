@@ -14,9 +14,11 @@ spec:
     spec:
       containers:
       - image:  akash125/message-app:v1
+        imagePullPolicy: Always
         name: message-app
         ports:
         - containerPort: 8080
         envFrom:
         - configMapRef:
             name: message-configmap
+  
