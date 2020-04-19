@@ -5,4 +5,4 @@ metadata:
   labels:
     app: message-app
 data:
-  MESSAGE: "Stay Home, Stay Safe"
+  MESSAGE: "This too shall pass"
