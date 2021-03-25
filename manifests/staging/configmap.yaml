@@ -5,4 +5,4 @@ metadata:
   labels:
     app: message-app
 data:
-  MESSAGE: "This too shall pass"
+  MESSAGE: "This too shall pass like the first one"
